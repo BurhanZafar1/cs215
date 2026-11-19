@@ -8,7 +8,7 @@ title: Seattle Flight Delays
 
 For this project I used about 92,000 flights leaving Seattle (SEA) in 2025 from six airlines (Alaska, Delta, United, Southwest, American and JetBlue), from the U.S. Bureau of Transportation Statistics. I made interactive maps and charts with Plotly to see **where** flights go and **how late** they leave. Hover over any chart to see the numbers.
 
-[See the full notebook (code + outputs)](Interactive_Plotly_Maps_Burhan.ipynb)
+[See the full notebook (code + outputs)](https://github.com/BurhanZafar1/cs215/blob/main/flight-delays/Interactive_Plotly_Maps_Burhan.ipynb)
 
 ---
 
