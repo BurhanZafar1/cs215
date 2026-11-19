@@ -1,9 +1,12 @@
-# Burhan Zafar — CS/Math 215: Intro to Data Science
+# Burhan Zafar | CS/Math 215: Intro to Data Science
 
-Hi! I'm Burhan, and this is where I'm putting my work for CS/Math 215 at Whitman College (Fall 2026). I'll add my mini projects and final project here as the semester goes on.
+Hi! I'm Burhan, and this is where I'm putting my work for CS/Math 215 at Whitman College (Fall 2026).
 
-## About this class
-We use Python, pandas and Colab to clean, analyze and visualize real data, and also think about who makes data and why.
+In this class we use Python, pandas and Colab to clean, analyze and visualize real data, and also think about who makes data and why.
+
+## Projects
+
+- **[Seattle Flight Delays (2025)](flight-delays/)**: Interactive Plotly maps and charts of where flights from SEA go and how late they leave, by destination, state, region, month and airline.
 
 ## Final Project Ideas
 
@@ -24,6 +27,3 @@ I want to look at how sleep, physical activity, body weight and blood sugar are 
 **Tools:** pandas for cleaning and merging, matplotlib/seaborn (and maybe Plotly) for graphs.
 
 This data only shows connections, not causes. If people who sleep less have a higher BMI, that doesn't mean less sleep *causes* weight gain.
-
-## Projects
-*Coming soon.*
